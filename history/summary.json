@@ -4,7 +4,7 @@
     "url": "https://www.Bellasoleil.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bellasoleil.com.ico",
     "slug": "bellasoleil",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 513,
     "timeMonth": 544,
     "timeYear": 544,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-03": 0
+    }
   }
 ]
